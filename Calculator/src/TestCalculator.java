@@ -1,6 +1,4 @@
-package com.bham.pij.assignments.calculator;
-
-// Ben Fleming 2245367
+package src;
 
 import java.util.Scanner;
 
